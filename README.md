@@ -8,4 +8,4 @@ This paper presents NotiFall, an experimental prototype of an ambient auditory n
 CHI EA '16 Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems
 
 ### Link
-A [link](http://dl.acm.org/citation.cfm?doid=2851581.2892443) to our paper for more details (include video)
+Please visit this [link](http://dl.acm.org/citation.cfm?doid=2851581.2892443) to our paper for more details if you are interested (include video)
